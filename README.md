@@ -44,6 +44,22 @@ port : 5432 )
 7-the file alg_def.py containt all the python functions
 
 
+additional information 
 
+1- the target database was created in RDS AWS services, it's open to public you can access using the below information :
+
+connection : algdb-1.c3kwj6orkqge.eu-west-3.rds.amazonaws.com
+
+user : postgres
+
+pwd : postgres
+
+port : 5432 
+
+2- the file unit_tests.py was created to dispalay some test that make us sure that we have load the data with right way and that we have a good result 
+
+3- a function was created to dispalay the resut of the tests, you run them all on the same time or you can run them one by one
+
+4- you can add more test if you want , you can use the function display_query( query ), you just the put the right query as an input
 
 
