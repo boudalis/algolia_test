@@ -37,11 +37,12 @@ port : 5432 )
 
 4-prepare constants.py file, you can change the target database connection string, the name of the target table , the range of date and the url of the source file.
 
-5- the file alg_main_his.py should be used to load all the files between the start and end date
+5- the file alg_main_his.py should be used to load all the files between the start and end date cmd to use is "python alg_main_his.py"
 
-6-the file alg_main_daily.py can be used to load the file of the current day, if we want to schedule the project we should run this file.
+6-the file alg_main_daily.py can be used to load the file of the current day, if we want to schedule the project we should run this file , cmd to use is "python alg_main_daily.py"
 
 7-the file alg_def.py containt all the python functions
+
 
 
 
