@@ -1,7 +1,7 @@
 # algolia_test
 Algolia project 
 
-this project has for goal to integrate the files downloaded by the provided URL into the Postgres database, this project was developed by python so to run please make sure that python is installed in your environment.
+this project has for goal to integrate the files downloaded by the provided URL into the Postgres database, this project was developed by python.
 
 Prerequisites :
 
