@@ -1,9 +1,9 @@
 # algolia_test
-Algolia project 
+## Algolia project 
 
 this project has for goal to integrate the files downloaded by the provided URL into the Postgres database, this project was developed by python.
 
-Prerequisites :
+## Prerequisites 
 
 1- python should be installed in the environment
 
@@ -17,7 +17,7 @@ Prerequisites :
 
 6- make sure that you have access to the URL
 
-run the project :
+## run the project 
 
 1- copy the project in one folder,
 
@@ -41,7 +41,7 @@ port : 5432 )
 
 7-the file alg_def.py contains all the python functions
 
-additional information
+## additional information
 
 1- the target database was created in RDS AWS services, it's open to the public you can access using the below information :
 
