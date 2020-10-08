@@ -25,12 +25,6 @@ this project has for goal to integrate the files downloaded by the provided URL 
 
 connection: algdb-1.c3kwj6orkqge.eu-west-3.rds.amazonaws.com
 
-user : postgres
-
-pwd : postgres
-
-port : 5432 )
-
 3-run the query.sql file (you can change the table name and schema and tablespaces if you want, but make sure that you have updated the constants.py file
 
 4-prepare constants.py file, you can change the target database connection string, the name of the target table, the range of date, and the URL of the source file.
@@ -46,10 +40,6 @@ port : 5432 )
 1- the target database was created in RDS AWS services, it's open to the public you can access using the below information :
 
 connection: algdb-1.c3kwj6orkqge.eu-west-3.rds.amazonaws.com
-
-user : postgres
-
-pwd : postgres
 
 port : 5432
 
